@@ -41,8 +41,7 @@ I'm a full-stack developer specializing in modern JavaScript frameworks with a s
           <br>
           3+ years of UI/UX design experience<br>
           Creating intuitive and visually appealing interfaces<br>
-          Translating client visions into functional designs
-        </p>
+         </p>
       </td>
       <td width="50%">
         <h3 align="center">💻 Development Path</h3>
