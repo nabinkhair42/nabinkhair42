@@ -17,7 +17,7 @@ I’m currently building a mix of developer tools, productivity apps, and learni
 | **V Theme** | [vthemes.nabinkhair.com.np](https://vthemes.nabinkhair.com.np/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
 | **AlgoDocs** | [algodocs.dev](https://www.algodocs.dev/) | ![Under Development](https://img.shields.io/badge/Under_Development-orange) |
 | **PRO MCP** | [promcp.vercel.app](https://promcp.vercel.app/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
-| **Pira** | [pira.vercel.app](https://pira.vercel.app/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
+| **Pira** | [pira.vercel.app](https://pira.nabinkhair.com.np) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
 | **vMetrics** | [vmetrics.nabinkhair.com.np](https://vmetrics.nabinkhair.com.np/) | ![Under Development](https://img.shields.io/badge/Under_Development-orange) | 
 | **YourGit** | [yourgit.vercel.app](https://yourgit.vercel.app/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
 
