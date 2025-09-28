@@ -14,7 +14,8 @@ I’m currently building a mix of developer tools, productivity apps, and learni
 | Project | Live | Status | 
 |---|---|---|
 | **FlowMint** | [FlowMint](https://flow.nabinkhair.com.np/) | ![Live](https://img.shields.io/badge/Live-brightgreen) |
-| **V Theme** | [VThemes](https://vthemes.nabinkhair.com.np/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
+| **Fastly** | [Fastly](https://starter.nabinkhair.com.np/) | ![Live](https://img.shields.io/badge/Open_Source-brightgreen) |
+| **V Theme** | [VThemes](https://vthemes.nabinkhair.com.np/) | ![Live](https://img.shields.io/badge/Open_Source-brightgreen) | 
 | **AlgoDocs** | [AlgoDocs](https://www.algodocs.dev/) | ![Under Development](https://img.shields.io/badge/Under_Development-orange) |
 | **PRO MCP** | [ProMcp](https://promcp.vercel.app/) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
 | **Pira** | [Pira](https://pira.nabinkhair.com.np) | ![Live](https://img.shields.io/badge/Live-brightgreen) | 
