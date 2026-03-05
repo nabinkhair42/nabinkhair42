@@ -17,9 +17,9 @@ I am a Full Stack Software Engineer from Nepal focused on building practical AI-
 - [Devshell](https://github.com/nabinkhair42/devshell) – Gemini‑based AI coding CLI tool  
 - [FlowMint](https://github.com/nabinkhair42/flowmint) – AI‑powered diagram generation tool  
 - [Pro MCP](https://github.com/nabinkhair42/pro-mcp) – registry for MCP servers and tools  
-- [vTheme](https://vthemes.nabinkhair.com.np/) – VS Code theme for improved readability and focus :contentReference[oaicite:0]{index=0}  
+- [vTheme](https://vthemes.nabinkhair.com.np/) – VS Code theme for improved readability and focus
 - [instagram-x-bridge](https://github.com/nabinkhair42/instagram-x-bridge) – summarizes Instagram posts to X using LLMs  
-- [Nepali Educate](https://github.com/nabinkhair42/nepali-educate) – education portal for Nepali students :contentReference[oaicite:1]{index=1}
+- [Nepali Educate](https://github.com/nabinkhair42/nepali-educate) – education portal for Nepali students 
 
 
 ## GitHub Activity
