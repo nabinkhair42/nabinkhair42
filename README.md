@@ -8,18 +8,19 @@ I am a Full Stack Software Engineer from Nepal focused on building practical AI-
 
 ## Projects
 
-- [GitChat](https://github.com/nabinkhair42/gitchat) – AI assistant for GitHub workflows  
+- [GitChat](https://git.nabinkhair.com.np) – AI assistant for GitHub workflows  
 - [Structural Grid Skill](https://github.com/nabinkhair42/structural-grid-skill) – design system prompt skill for AI coding agents  
-- [Assets Man](https://assets-man.nabinkhair.com.np) – self‑hosted Google Drive alternative  
+- [Assets Man](https://assets-man.nabinkhair.com.np) – self‑hosted Google Drive alternative
+- [GitRank](https://git-rank-black.vercel.app) - view your global and regional github rank based on you contributions and followers
 - [Pest.js](https://pestjs.vercel.app/) – Express 5 + TypeScript project generator  
-- [Better Form](https://github.com/nabinkhair42/better-form) – dynamic form builder for React/Next.js  
-- [Fastly](https://github.com/nabinkhair42/fastly) – production‑ready SaaS starter kit  
+- [Better Form](https://better-form.nabinkhair.com.np) – dynamic form builder for React/Next.js  
+- [Fastly](https://fastly.nabinkhair.com.np/) – production‑ready SaaS starter kit  
 - [Devshell](https://github.com/nabinkhair42/devshell) – Gemini‑based AI coding CLI tool  
-- [FlowMint](https://github.com/nabinkhair42/flowmint) – AI‑powered diagram generation tool  
-- [Pro MCP](https://github.com/nabinkhair42/pro-mcp) – registry for MCP servers and tools  
+- [FlowMint](https://flow.nabinkhair.com.np/) – AI‑powered diagram generation tool  
+- [Pro MCP](https://promcp.vercel.app/) – registry for MCP servers and tools  
 - [vTheme](https://vthemes.nabinkhair.com.np/) – VS Code theme for improved readability and focus
 - [instagram-x-bridge](https://github.com/nabinkhair42/instagram-x-bridge) – summarizes Instagram posts to X using LLMs  
-- [Nepali Educate](https://github.com/nabinkhair42/nepali-educate) – education portal for Nepali students 
+- [Nepali Educate](https://www.nepalieducate.com/) – education portal for Nepali students 
 
 
 ## GitHub Activity
