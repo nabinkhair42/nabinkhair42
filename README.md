@@ -17,7 +17,8 @@ I am a Full Stack Software Engineer from Nepal focused on building practical AI-
 - [Fastly](https://fastly.nabinkhair.com.np/) – production‑ready SaaS starter kit  
 - [Devshell](https://github.com/nabinkhair42/devshell) – Gemini‑based AI coding CLI tool  
 - [FlowMint](https://flow.nabinkhair.com.np/) – AI‑powered diagram generation tool  
-- [Pro MCP](https://promcp.vercel.app/) – registry for MCP servers and tools  
+- [Pro MCP](https://promcp.vercel.app/) – registry for MCP servers and tools
+- [ENV Store](https://envstore.nabinkhair.com.np/) - Store your **`.env` file** securely so that you never lose it, even if you lose your system.
 - [vTheme](https://vthemes.nabinkhair.com.np/) – VS Code theme for improved readability and focus
 - [instagram-x-bridge](https://github.com/nabinkhair42/instagram-x-bridge) – summarizes Instagram posts to X using LLMs  
 - [Nepali Educate](https://www.nepalieducate.com/) – education portal for Nepali students 
