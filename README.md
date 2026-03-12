@@ -7,7 +7,7 @@ I am a Full Stack Software Engineer from Nepal focused on building practical AI-
 > Think - Create - Ship - Learn - Improve
 
 ## Projects
-
+- [DataLens](https://db.nabinkhair.com.np/) - The web-native, collaborative database IDE
 - [GitChat](https://git.nabinkhair.com.np) – AI assistant for GitHub workflows  
 - [Structural Grid Skill](https://github.com/nabinkhair42/structural-grid-skill) – design system prompt skill for AI coding agents  
 - [Assets Man](https://assets-man.nabinkhair.com.np) – self‑hosted Google Drive alternative
