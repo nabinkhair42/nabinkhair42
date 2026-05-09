@@ -7,6 +7,7 @@ I am a Full Stack Software Engineer from Nepal focused on building practical AI-
 > Think - Create - Ship - Learn - Improve
 
 ## Projects
+- [Nepali Calendar](https://calendar.nabinkhair.com.np/) - macOS application for previewing Nepali Patro on menu bar
 - [Skills](https://skills.nabinkhair.com.np/) - reusable patterns i use as a product engineer, packaged as installable agent skills
 - [DataLens](https://db.nabinkhair.com.np/) - The web-native, collaborative database IDE
 - [GitChat](https://git.nabinkhair.com.np) – AI assistant for GitHub workflows  
