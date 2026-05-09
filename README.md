@@ -38,6 +38,8 @@ Architected and delivered end-to-end AI systems, integrating language models int
 
 ## Latest Blog Posts
 
+- [How to Kill a Process Running on a Port](https://nabinkhair.com.np/blog/kill-port-process)
+- [Context Engineering for Agents](https://nabinkhair.com.np/blog/context-engineering-for-agents)
 - [What is LLM Distillation Attack](https://nabinkhair.com.np/blog/what-is-llm-distillation-attack)  
 - [Bypass Vercel Deploy Restriction](https://nabinkhair.com.np/blog/bypass-vercel-deploy-restriction)  
 - [Understanding LLMs](https://nabinkhair.com.np/blog/understand-llm)  
