@@ -12,7 +12,7 @@ I ship production AI products end to end. Frontend, backend, LLM orchestration, 
 - [DataLens](https://db.nabinkhair.com.np/) - The web-native, collaborative database IDE
 - [GitChat](https://git.nabinkhair.com.np) – AI assistant for GitHub workflows  
 - [Structural Grid Skill](https://github.com/nabinkhair42/structural-grid-skill) – design system prompt skill for AI coding agents  
-- [Assets Man](https://assets-man.nabinkhair.com.np) – self‑hosted Google Drive alternative
+- [Assets Man](https://github.com/nabinkhair42/assets-man) – self‑hosted Google Drive alternative
 - [GitRank](https://git-rank-black.vercel.app) - view your global and regional github rank based on you contributions and followers
 - [Pest.js](https://pestjs.vercel.app/) – Express 5 + TypeScript project generator  
 - [Better Form](https://better-form.nabinkhair.com.np) – dynamic form builder for React/Next.js  
